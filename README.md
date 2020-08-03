@@ -3,5 +3,5 @@ A collection of all general codes implemented in Python mostly for my convenienc
 Following is the index of currently written codes. 
 
 # Sorting
-1.[Bubble Sort](AllCodesPython/Sorting/BubbleSort.py)
+1.[Bubble Sort](Sorting/BubbleSort.py)
 
