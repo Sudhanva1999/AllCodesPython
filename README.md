@@ -4,7 +4,7 @@ Following is the index of currently written codes.
 
 # Sorting
 1.[Bubble Sort](Sorting/BubbleSort.py)\
-2.[Selection Sort](Sorting/SelectionSort.py)
+2.[Selection Sort](Sorting/SelectionSort.py)\
 3.[Insertion Sort](Sorting/InsertionSort.py)
 
 # AI Problems
