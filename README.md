@@ -3,7 +3,8 @@ A collection of all general codes implemented in Python mostly for my convenienc
 Following is the index of currently written codes. 
 
 # Sorting
-1.[Bubble Sort](Sorting/BubbleSort.py)
+1.[Bubble Sort](Sorting/BubbleSort.py)\
+2.[Selection Sort](Sorting/SelectionSort.py)
 
 # AI Problems
 1.[Water Jug Problem Using DFS](https://github.com/Sudhanva1999/WaterJug_Problem_Python-/blob/master/Water_Jug_PythonMy.py)\
