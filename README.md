@@ -6,7 +6,7 @@ Following is the index of currently written codes.
 1.[Bubble Sort](Sorting/BubbleSort.py)\
 2.[Selection Sort](Sorting/SelectionSort.py)\
 3.[Insertion Sort](Sorting/InsertionSort.py)\
-3.[Merge Sort](Sorting/MergeSort.py)
+4.[Merge Sort](Sorting/MergeSort.py)
 
 # AI Problems
 1.[Water Jug Problem Using DFS](https://github.com/Sudhanva1999/WaterJug_Problem_Python-/blob/master/Water_Jug_PythonMy.py)\
