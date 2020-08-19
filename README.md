@@ -10,6 +10,8 @@ Following is the index of currently written codes.
 
 # AI Problems
 1.[Water Jug Problem Using DFS](https://github.com/Sudhanva1999/AI_Problems/blob/master/WaterJug_Problem.py)\
-2.[Cannibals And Missionaries Using BFS](https://github.com/Sudhanva1999/AI_Problems/blob/master/CannibalsAndMissionaries.py)
+2.[Cannibals And Missionaries Using BFS](https://github.com/Sudhanva1999/AI_Problems/blob/master/CannibalsAndMissionaries.py)\
+3.[Tic-Tac-Toe Problem using Heuristic_Hill Climbing](https://github.com/Sudhanva1999/AI_Problems/blob/master/Tic-Tac-Toe_Heuristic.py)
+
 
 
